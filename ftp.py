@@ -7,7 +7,7 @@ import socket
 FTP_USER = "user"       
 FTP_PASSWORD = "password"   
 FTP_DIRECTORY = "."         
-FTP_PORT = 2121            
+FTP_PORT = 25            
 
 def start_ftp_server():
     # FTP için kullanıcı yetkilendirmesini ayarla
